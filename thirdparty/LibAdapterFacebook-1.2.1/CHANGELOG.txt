@@ -1,0 +1,32 @@
+**********
+1.2.1
+**********
+
+- Fixed a bug where interstitial presented and interstitial leaving application
+callbacks were not properly invoked.
+
+
+**********
+1.2.0
+**********
+
+- Sends callbacks when an ad is presented and dismissed.
+
+**********
+1.1.0
+**********
+
+- Added support for full width x 250 format when request is
+for kGADAdSizeMediumRectangle.
+
+**********
+1.0.1
+**********
+
+- Added support for kGADAdSizeSmartBanner.
+
+**********
+1.0.0
+**********
+
+- Initial release.
